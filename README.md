@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ahmet%20Oyan&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Cep:%20%2B905418257363%20%7C%20E-posta:%20ahmedoyan101@gmail.com&descAlignY=60&descSize=20" alt="Ahmet Oyan Banner" width="100%" />
+</p>
+
 # Selam, Ben Ahmet Oyan! 👋
 
 ### 🚀 Hakkımda
